@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Log out</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_priority">Priority</string>
+    <string name="menu_status">Status</string>
+    <string name="menu_note">Note</string>
+    <string name="menu_editProfile">Edit Profile</string>
+    <string name="menu_changePwd">Change Password</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="remember_me">Remember me</string>
+
+    <string name="current_password">Current password</string>
+    <string name="confirm_new_password">Confirm new password</string>
+    <string name="new_password">New password</string>
+    <string name="new_email">New email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="update">Update</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_close">Close</string>
+    <string name="home">Home</string>
+
+    <string name="require">Require</string>
+    <string name="email_exists">Email exists</string>
+    <string name="email_error">The email is not right</string>
+    <string name="new_email_error">The new email is not right</string>
+    <string name="email_duplicate">Duplicate email</string>
+    <string name="password_error">The password is not right</string>
+    <string name="compare_password_error">Passwords are not match</string>
+    <string name="signup_successfully">Signup successfully</string>
+    <string name="login_successfully">Login successfully</string>
+    <string name="login_error">Login failed</string>
+    <string name="login_not_find_account">Not find account</string>
+    <string name="email_has_account">The email has an account.</string>
+    <string name="edit_profile_successfully">Edit profile successfully</string>
+    <string name="edit_profile_error">Edit profile failed</string>
+    <string name="change_password_successfully">Change password successfully</string>
+    <string name="change_password_error">password mismatch</string>
+
+    <string name="add_success">Successfully added</string>
+    <string name="add_fail">Add failed</string>
+    <string name="invalid_name">Invalid name</string>
+
+    <string name="edit_success">Successfully edited</string>
+    <string name="edit_fail">Edit failed</string>
+
+
+</resources>

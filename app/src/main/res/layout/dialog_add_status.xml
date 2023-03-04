@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="15dp"
+    android:layout_margin="10dp">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="Status Form"
+           android:textColor="@color/purple_700"
+           android:textStyle="bold"
+           android:textSize="18dp"
+           android:paddingLeft="20dp"
+           android:paddingTop="20dp"/>
+
+       <EditText
+           android:id="@+id/dialog_status_et_status"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_margin="20dp"
+           android:textColor="@color/purple_500" />
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="80dp"
+           android:orientation="horizontal"
+           android:gravity="center">
+           <Button
+               android:id="@+id/dialog_status_btn_add"
+               android:layout_width="150dp"
+               android:layout_height="50dp"
+               android:background="@drawable/custom_button"
+               android:layout_marginStart="20dp"
+               android:text="@string/btn_add"
+               android:textSize="18dp"/>
+           <Button
+               android:id="@+id/dialog_status_btn_close"
+               android:layout_width="150dp"
+               android:layout_height="50dp"
+               android:background="@drawable/custom_button"
+               android:layout_marginStart="20dp"
+               android:layout_marginEnd="20dp"
+               android:text="@string/btn_close"
+               android:textSize="18dp"/>
+
+       </LinearLayout>
+   </LinearLayout>
+
+</androidx.cardview.widget.CardView>

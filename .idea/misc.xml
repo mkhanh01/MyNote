@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NoteManagement/app/src/main/res/drawable/custom_edittext.xml" value="0.128" />
+        <entry key="..\:/NoteManagement/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/NoteManagement/app/src/main/res/drawable/ic_menu_share.xml" value="0.1" />
+        <entry key="..\:/NoteManagement/app/src/main/res/drawable/side_nav_bar.xml" value="0.101" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/activity_home.xml" value="0.12158054711246201" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/activity_main.xml" value="0.19021739130434784" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/activity_signup.xml" value="0.234375" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/app_bar_home.xml" value="0.25" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/content_home.xml" value="0.24947916666666667" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/fragment_category.xml" value="0.25" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/fragment_change_pwd.xml" value="0.25" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/fragment_edit_profile.xml" value="0.25" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/fragment_note.xml" value="0.25" />
+        <entry key="..\:/NoteManagement/app/src/main/res/layout/nav_header_home.xml" value="0.12158054711246201" />
+        <entry key="..\:/NoteManagement/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="..\:/NoteManagement/app/src/main/res/menu/home.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context=".ui.home.HomeFragment">
+
+<!--    <org.eazegraph.lib.charts.PieChart-->
+<!--        android:id="@+id/fragment_home_pie_chart"-->
+<!--        android:layout_width="350dp"-->
+<!--        android:layout_height="350dp"-->
+<!--        android:layout_gravity="center_horizontal" />-->
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/fragment_home_pie_chart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+<!--    <LinearLayout-->
+<!--        android:layout_marginTop="50dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <View-->
+<!--            android:layout_width="25dp"-->
+<!--            android:layout_height="25dp"-->
+<!--            android:background="@color/pink"-->
+<!--            android:layout_marginStart="50dp"/>-->
+<!--        <TextView-->
+<!--            android:id="@+id/fragment_home_tv_pink"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="textview"-->
+<!--            android:layout_marginStart="20dp"-->
+<!--            android:textSize="18dp"-->
+<!--            android:textColor="@color/purple_700"-->
+<!--            android:textStyle="bold"/>-->
+
+<!--    </LinearLayout>-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <View-->
+<!--            android:layout_width="25dp"-->
+<!--            android:layout_height="25dp"-->
+<!--            android:background="@color/blue"-->
+<!--            android:layout_marginStart="50dp"/>-->
+<!--        <TextView-->
+<!--            android:id="@+id/fragment_home_tv_blue"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="textview"-->
+<!--            android:layout_marginStart="20dp"-->
+<!--            android:textSize="18dp"-->
+<!--            android:textColor="@color/purple_700"-->
+<!--            android:textStyle="bold"/>-->
+
+<!--    </LinearLayout>-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <View-->
+<!--            android:layout_width="25dp"-->
+<!--            android:layout_height="25dp"-->
+<!--            android:background="@color/brown"-->
+<!--            android:layout_marginStart="50dp"/>-->
+<!--        <TextView-->
+<!--            android:id="@+id/fragment_home_tv_brown"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="textview"-->
+<!--            android:layout_marginStart="20dp"-->
+<!--            android:textSize="18dp"-->
+<!--            android:textColor="@color/purple_700"-->
+<!--            android:textStyle="bold"/>-->
+
+<!--    </LinearLayout>-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <View-->
+<!--            android:layout_width="25dp"-->
+<!--            android:layout_height="25dp"-->
+<!--            android:background="@color/yellow"-->
+<!--            android:layout_marginStart="50dp"/>-->
+<!--        <TextView-->
+<!--            android:id="@+id/fragment_home_tv_yellow"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="textview"-->
+<!--            android:layout_marginStart="20dp"-->
+<!--            android:textSize="18dp"-->
+<!--            android:textColor="@color/purple_700"-->
+<!--            android:textStyle="bold"/>-->
+
+<!--    </LinearLayout>-->
+
+
+
+</LinearLayout>
